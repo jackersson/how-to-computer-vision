@@ -32,6 +32,10 @@ List of great sources to become Master in Computer Vision
 [Stanford. Mobile Computer Vision](http://web.stanford.edu/class/cs231m/syllabus.html)
 > Described techniques how to run Computer Vision application on mobile devices (mostly for IOS). Great explanation on mobile devices power consumption and limitations for high performance applications. 
 
+## Guru
+
+[Arxiv. Top recent papers](http://www.arxiv-sanity.com/)
+> A lot of most recent papers with links to github projects (implementation)
 
 ## Dependencies
 
