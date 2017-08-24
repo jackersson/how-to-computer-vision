@@ -8,7 +8,6 @@ List of great sources to become Master in Computer Vision
 
 
 [Udacity. Computational photography](https://www.udacity.com/course/computational-photography--ud955)
-
 [Udacity. Intro to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 > Udacity prepared two great courses to get basic understanding of standart algorithms in COmputer Vision. Courses have common videos but it would be awesome to learn from both.
