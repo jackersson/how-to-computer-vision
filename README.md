@@ -19,6 +19,7 @@ List of great sources to become Master in Computer Vision
 ## Intermediate
 
 [Stanford. Digital image processing](https://web.stanford.edu/class/ee368/schedule.html)
+
 [Stanford. Computational Imaging and Display](http://stanford.edu/class/ee367/)
 > More courses on understanding what is digital image about. How it is created and how it could be processed.
 
@@ -28,7 +29,7 @@ List of great sources to become Master in Computer Vision
 [Geometry of Computer Vision and Graphics](https://cw.fel.cvut.cz/wiki/courses/a4m33gvg/start)
 > Described more advanced techniques on how Deep Learning affects on modern Computer Vision and some algorithms to work with 3D.
 
-[Stanford. Mobile Computer Vision]http://web.stanford.edu/class/cs231m/syllabus.html
+[Stanford. Mobile Computer Vision](http://web.stanford.edu/class/cs231m/syllabus.html)
 > Described techniques how to run Computer Vision application on mobile devices (mostly for IOS). Great explanation on mobile devices power consumption and limitations for high performance applications. 
 
 
